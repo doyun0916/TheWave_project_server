@@ -1,0 +1,16 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'run', 'dev' ]
+2 info using npm@6.14.4
+3 info using node@v10.21.0
+4 verbose run-script [ 'predev', 'dev', 'postdev' ]
+5 info lifecycle wave@1.0.0~predev: wave@1.0.0
+6 info lifecycle wave@1.0.0~dev: wave@1.0.0
+7 verbose lifecycle wave@1.0.0~dev: unsafe-perm in lifecycle true
+8 verbose lifecycle wave@1.0.0~dev: PATH: /usr/lib/node_modules/npm/node_modules/npm-lifecycle/node-gyp-bin:/home/ubuntu/wave/frontend/node_modules/.bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+9 verbose lifecycle wave@1.0.0~dev: CWD: /home/ubuntu/wave/frontend
+10 silly lifecycle wave@1.0.0~dev: Args: [ '-c',
+10 silly lifecycle   'webpack-dev-server --inline --progress --config build/webpack.dev.conf.js' ]
+11 timing npm Completed in 203473ms
+12 error cb() never called!
+13 error This is an error with npm itself. Please report this error at:
+14 error <https://npm.community>
